@@ -1,5 +1,5 @@
 # packet-tracer
-Cisco Packet Tracer Works for 6.0.1
+Cisco Packet Tracer 6.0.1 Workouts/Projects
 
 While studying internet and network technologies at the university, the Network Device Configuration is the basic and middle -level network management we do in our course.
 
